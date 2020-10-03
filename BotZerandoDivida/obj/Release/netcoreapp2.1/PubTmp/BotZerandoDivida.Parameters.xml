@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="botzerandodivida" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Sérgio\\OneDrive\ -\ i9ti\.com\.br\\TI\\Projetos\\ZERANDODIVIDAS\\ChatBotZerandoDivida\\BotZerandoDivida\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,15 @@
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.csprojAssemblyReference.cache
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.RazorAssemblyInfo.cache
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\bin\Release\netcoreapp2.1\BotZerandoDivida.deps.json
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\bin\Release\netcoreapp2.1\BotZerandoDivida.runtimeconfig.json
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\bin\Release\netcoreapp2.1\BotZerandoDivida.runtimeconfig.dev.json
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\bin\Release\netcoreapp2.1\BotZerandoDivida.dll
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\bin\Release\netcoreapp2.1\BotZerandoDivida.pdb
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.RazorAssemblyInfo.cs
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.AssemblyInfoInputs.cache
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.AssemblyInfo.cs
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.RazorTargetAssemblyInfo.cache
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.dll
+C:\Users\Sérgio\OneDrive - i9ti.com.br\TI\Projetos\ZERANDODIVIDAS\ChatBotZerandoDivida\BotZerandoDivida\obj\Release\netcoreapp2.1\BotZerandoDivida.pdb
